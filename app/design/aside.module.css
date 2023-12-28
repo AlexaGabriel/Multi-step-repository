@@ -1,0 +1,17 @@
+.sid{
+    height: 65vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    background: url(../../public/bg-sidebar-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    gap: px;
+    border-radius: 1rem;
+    margin-left: 2%;
+}
+.span{
+    display: flex;
+    flex-direction: column;
+}
